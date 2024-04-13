@@ -1,4 +1,4 @@
-# GALLERIA - Discover Art, Explore Passion
+# GALLERIUM - Discover Art, Explore Passion
 
 
 # Data flow chart
